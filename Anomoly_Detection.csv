@@ -1,0 +1,13 @@
+﻿,Anomaly count,P1,P2,P3,P4
+abod,48,Col 9,Col 7,Col 10,Col 8
+cluster,50,Col 7,Col 9,Col 10,Col 8
+cof,50,Col 9,Col 7,Col 10,Col 8
+iforest,50,Col 9,Col 7,Col 10,Col 8
+histogram,48,Col 9,Col 7,Col 10,Col 8
+knn,44,Col 9,Col 7,Col 10,Col 8
+lof,42,Col 9,Col 7,Col 10,Col 8
+svm,50,Col 7,Col 9,Col 10,Col 8
+pca,50,Col 7,Col 9,Col 10,Col 8
+mcd,50,Col 9,Col 7,Col 10,Col 8
+sod,,,,,
+sos,50,Col 9,Col 7,Col 10,Col 8
